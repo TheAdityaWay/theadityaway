@@ -1,4 +1,4 @@
-Hi 👋, I'm Aditya Raj
+Hi 👋, I'm **Aditya Raj**
 
 A passionate Full Stack Web developer from India
 
@@ -7,7 +7,5 @@ A passionate Full Stack Web developer from India
 🔭 I’m currently working on Portfolio Website
 
 🌱 I’m currently learning MERN
-
-👯 I’m looking to collaborate on MERN Projects
 
 📫 How to reach me connect2rajaditya@gmail.com
